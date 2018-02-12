@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../Period/ViewWebMD.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/chaselynbaca/Desktop/PearlHacks/HelloWorld/Period/Icons/File.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/chaselynbaca/Desktop/PearlHacks/HelloWorld/Period/ViewAppPageViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../../Icon@1x.jpg">
+   </FileRef>
+   <FileRef
+      location = "self:/Users/chaselynbaca/Desktop/PearlHacks/HelloWorld/Period.xcodeproj">
+   </FileRef>
+</Workspace>
